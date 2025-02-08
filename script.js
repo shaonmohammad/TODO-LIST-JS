@@ -1,3 +1,9 @@
+// ToDo Update Instruction
+// - Add an onclick event to the update button/element.
+// - Use prompt() to take user input (search online for how prompt works in JavaScript if needed).
+// - Assign the updated value to the corresponding DOM element.
+// - Save the updated value in localStorage.
+
 document.addEventListener('DOMContentLoaded', loadTask);
 
 function loadTask() {
